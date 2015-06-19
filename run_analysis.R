@@ -1,10 +1,9 @@
 ##########################################################################################################
 
 ## Getting and Cleaning Data Course Project
-## Rekha Mishra
 ## 2015-06-18
 
-# runAnalysis.r File Description:
+# run_analysis.R File Description:
 
 # This script will perform the following steps on the UCI HAR Dataset downloaded from 
 # https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
